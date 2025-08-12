@@ -45,7 +45,7 @@ cd ufw-manager-tui
 Run:
 
 ```bash
-python3 ufw_manager.py
+python3 ufwmanager.py
 ```
 
 > **Note:** You’ll need to run in a terminal capable of curses-based apps, preferably in full-screen mode.
