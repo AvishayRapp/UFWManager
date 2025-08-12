@@ -24,7 +24,7 @@ It provides a **full-screen, curses-based interface** to view, add, edit, and de
 - Python 3.7+
 - `ufw` installed and configured on your system
 - Sudo privileges (required for modifying firewall rules)
-- Linux terminal with at least **80x24** resolution - Yes, because actual terminals are still a thing! ;)
+- Linux terminal with at least **80 (columns) x 24 (rows)** resolution - Yes, because actual terminals are still a thing! ;)
 
 Install UFW if not present:
 ```bash
