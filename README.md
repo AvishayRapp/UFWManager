@@ -163,6 +163,3 @@ Custom service names and notes are stored in:
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-If you’d like, I can also create a **preview screenshot** of your TUI layout (mocked with fake rules) so your GitHub README will look more attractive and help users understand the interface instantly. That would make it look more polished.
-```
