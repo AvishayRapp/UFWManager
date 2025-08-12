@@ -1,4 +1,3 @@
-````markdown
 # 🔥 UFW Manager TUI
 
 **UFW Manager** is an interactive **Terminal User Interface** (TUI) for managing [UFW (Uncomplicated Firewall)](https://wiki.ubuntu.com/UncomplicatedFirewall) on Linux.  
