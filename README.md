@@ -5,6 +5,16 @@ It provides a **full-screen, curses-based interface** to view, add, edit, and de
 
 ---
 
+## Screenshots!
+ - **Main Interface:**
+![ufw1](ufw1.png "Main Interface")
+
+ - **Rule Editing:**
+![ufw2](ufw2.png "Rule Editing")
+
+ - **!! PANIC MODE !!**
+![ufw3](ufw3.png "Main Interface")
+
 ## ✨ Features
 
 - **Live UFW status** display (active/inactive/error)
