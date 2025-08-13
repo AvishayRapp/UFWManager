@@ -48,8 +48,8 @@ sudo apt update && sudo apt install ufw
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ufw-manager-tui.git
-cd ufw-manager-tui
+git clone https://github.com/AvishayRapp/UFWManager.git
+cd UFWManager
 ```
 
 Run:
